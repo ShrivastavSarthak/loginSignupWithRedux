@@ -1,0 +1,15 @@
+.loginForm{
+  max-width: 20rem;
+}
+
+.footer{
+  height: 20rem;
+  background-color: black;
+}
+
+.btn{
+  width: 10rem;
+  height: 3rem;
+  background-color: black;
+  color: azure;
+}
