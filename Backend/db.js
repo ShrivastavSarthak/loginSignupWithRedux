@@ -1,7 +1,5 @@
 const mongoose =require("mongoose");
-
-const dburi="mongodb+srv://sharthak:20112002@cluster0.dzez59p.mongodb.net/user"
-
+const dburi= "Enter your db url"
 
 const connectToDb =()=>{
     mongoose.connect(dburi).then(
